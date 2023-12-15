@@ -176,8 +176,3 @@ if __name__ == "__main__":  # apparently I'm supposed to do this, don't know why
     # creates an instance of the calculator and "starts" the whole code, without this part the whole file does nothing v
     calculator_4 = Calculator()
     calculator_4.run()
-
-
-# fix later:
-# Change color to purple? or green idk
-# cut down the code, its unneccessary long and messy code, example code on classroom was like half the amount of lines
